@@ -1,2 +1,2 @@
 import rich
-from agents import A
+from agents import Agent,Runner
